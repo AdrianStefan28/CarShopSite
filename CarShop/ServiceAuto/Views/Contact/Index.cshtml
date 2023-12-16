@@ -1,0 +1,95 @@
+﻿@model ServiceAuto.Models.Contact
+
+@{
+    ViewData["Title"] = "Contact Page";
+}
+<body style="background-color:khaki;">
+<div class="row">
+    <div class="column">
+
+        <div class="container" style="font-weight: bold;">
+            <form asp-action="Create">
+                <div class="row">
+                    <div class="col-25">
+                            <label asp-for="ContactFirstName">Nume</label>
+                    </div>
+                    <div class="col-75">
+                            <input asp-for="ContactFirstName" placeholder="Nume"/>
+                            <span asp-validation-for="ContactFirstName"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                            <label asp-for="ContactLastName">Prenume</label>
+                    </div>
+                    <div class="col-75">
+                            <input asp-for="ContactLastName" placeholder="Prenume" />
+                            <span asp-validation-for="ContactLastName"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                            <label asp-for="ContactEmail">Email</label>
+                    </div>
+                    <div class="col-75">
+                            <input asp-for="ContactEmail" placeholder="email@email.com" />
+                            <span asp-validation-for="ContactEmail"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                            <label asp-for="ContactSubject" class="control-label">Subiect</label>
+                    </div>
+                    <div class="col-75">
+                            <input asp-for="ContactSubject" class="form-control" placeholder="Subiect" />
+                            <span asp-validation-for="ContactSubject" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                            <label asp-for="ContactContext" class="control-label">Context</label>
+                    </div>
+                    <div class="col-75">
+                            <input asp-for="ContactContext" class="form-control" placeholder="Context" />
+                            <span asp-validation-for="ContactContext" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="from-group">
+                    <div class="col-25">
+
+                    </div>
+                    <div class="col-75">
+                            <input type="submit" value="Submit" class="btn btn-primary">
+                    </div>     
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="column">
+        <table style="font-weight: bold;">
+            <tr> <td>CarShop Romania </td> </tr>
+            <tr> <td>"Oferim siguranta si incredere."</td> </tr>
+            <tr> <td>Unde ne poti gasii?</td> </tr>
+            <tr> <td><img src="/img/Harta.png" style="height: 420px; width: 662px;"></td> </tr>
+            <tr> <td>Multumim!</td> </tr>
+        </table>
+    </div>
+</div>
+    <div>
+        <a asp-action="List">Back to List</a>
+    </div>
+    <div class="container">
+    </div>
+</body>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,47 @@
+﻿@model ServiceAuto.Models.ProgramareService
+
+@{
+    ViewData["Title"] = "Confrim Page";
+}
+<body style="background-color:#aaa;">
+    <p>Your programming for service was made.</p>
+    <div>
+        <h4>Your Dates</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Oras)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Oras)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Marca)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Marca)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Model)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Model)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Defectiune)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Defectiune)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.DataProgramare)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.DataProgramare)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="List">Back to List</a>
+    </div>
+</body>

@@ -1,0 +1,110 @@
+﻿@model ServiceAuto.Models.ProgramareService
+
+@{
+    ViewData["Title"] = "Programare Service Page";
+}
+<body style="background-color:#aaa;">
+    <div class="row">
+        <div class="column centerimg" id="col1">
+            <img src="/img/Poza Programare.jpg" alt="Poza VW" height="300px" width="500px">
+            <h2>Partenerul dvs. Volkswagen.</h2>
+        </div>
+        <div class="column bold">
+            <h3>Programare service online.</h3>
+            <h3>In orice zi, la orice ora. Rapid si comod.</h3>
+            <p>Acum poti programa online urmatoarea vizita in service:</p>
+            <p>Selecteaza unul din service-urile de mai jos.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column">
+
+            <div class="container" style="font-weight: bold;">
+                <form asp-action="Create">
+                    <div class="row">
+                        <div class="col-25">
+                            <label asp-for="Oras">Oras</label>
+                        </div>
+                        <div class="col-75">
+                            <select asp-for="Oras" name="Oras">
+                                <option value="Craiova">Craiova</option>
+                                <option value="Bucuresti">Bucuresti</option>
+                                <option value="Cluj">Cluj Napoca</option>
+                                <option value="Brasov">Brasov</option>
+                                <option value="Sibiu">Sibiu</option>
+                                <option value="Timisoara">Timisoara</option>
+                                <option value="Constanta">Constanta</option>
+                                <option value="Iasi">Iasi</option>
+                                <option value="Oradea">Oradea</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label asp-for="Marca">Marca</label>
+                        </div>
+                        <div class="col-75">
+                            <select asp-for="Marca" name="Marca">
+                                <option value="Skoda">Skoda</option>
+                                <option value="Volkswagen">Volkswagen</option>
+                                <option value="Alta">Alta marca</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label asp-for="Model">Model</label>
+                        </div>
+                        <div class="col-75">
+                            <select asp-for="Model" name="Model">
+                                <option value="Octavia">Octavia</option>
+                                <option value="Fabia">Fabia</option>
+                                <option value="Superb">Superb</option>
+                                <option value="Passat">Passat</option>
+                                <option value="Golf">Golf</option>
+                                <option value="Polo">Polo</option>
+                                <option value="Alt">Alt model</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label asp-for="Defectiune">Defectiune</label>
+                        </div>
+                        <div class="col-75">
+                            <input asp-for="Defectiune" placeholder="Defectiune" class="form-control" />
+                            <span asp-validation-for="Defectiune" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label asp-for="DataProgramare" class="control-label">Data</label>
+                        </div>
+                        <div class="col-75">
+                            <input asp-for="DataProgramare" class="form-control" />
+                            <span asp-validation-for="DataProgramare" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <input type="submit" value="Efectueaza programarea" class="btn btn-primary">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="column">
+        </div>
+    </div>
+</body>
+<div>
+    <a asp-action="List">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

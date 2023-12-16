@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ServiceAuto.Models.Contact>
+
+@{
+    ViewData["Title"] = "Contact List";
+}
+
+<h1>Contacts</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactSubject)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactContext)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactFirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactLastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactSubject)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactContext)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

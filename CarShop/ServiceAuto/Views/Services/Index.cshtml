@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ServiceAuto.Models.Service>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-black border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            @* <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">ServiceAuto</a>*@
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between text-white">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="Index">Employees</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="EmployeeAddresses" asp-action="Index">Address List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="ExpenseReports" asp-action="Index">Expense Report</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<h1>Services</h1>
+
+<p>
+    <a asp-action="Create">Add New Service</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceAddress1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceCity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceState)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceAddress1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceCity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceState)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

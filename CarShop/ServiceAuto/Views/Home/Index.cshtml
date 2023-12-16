@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<body style="background-color:khaki;">
+    <div class="row" style="background-color:khaki;">
+    <div class="column">
+        <img src="img/Poza1.jpg" alt="Poza" height="300" width="550">
+    </div>
+    <div class="column">
+        <h1>Ce este o masina?</h1>
+        <p class="text_bold">
+            O mașină este o invenție tehnologică complexă, proiectată pentru a executa
+            diverse activități sau pentru a transporta oameni și mărfuri. Ea constă în
+            mod obișnuit dintr-o serie de componente mecanice și electronice care lucrează
+            împreună pentru a realiza funcții specifice. Masinile pot fi clasificate într-o
+            varietate de moduri, inclusiv în funcție de scopul lor, cum ar fi mașini de pasageri,
+            mașini de transport marfă sau mașini industriale. Aceste vehicule sunt adesea propulsate
+            de motoare care transformă energia din diverse surse, precum combustibili fosili, electricitate
+            sau energie solară, în mișcare. Pe lângă transport, mașinile au devenit esențiale în domenii
+            precum producția, agricultura și construcțiile, contribuind semnificativ la eficiența și
+            mobilitatea societății moderne.
+        </p>
+    </div>
+</div>
+    <div class="row" style="background-color:khaki;">
+    <div class="column">
+            <h1>Cu ce te ajuta masina in viata?</h1>
+
+        <p class="text_bold">Pai hai sa aflam!</p>
+
+        <p class="text_bold">
+            O mașină aduce beneficii semnificative în viața de zi cu zi,
+            furnizând un mijloc eficient și comod de transport. Ea oferă
+            mobilitate rapidă și facilitează accesul la diferite locații,
+            permițând oamenilor să-și gestioneze mai eficient timpul și să exploreze
+            noi oportunități. Mașinile sunt esențiale în facilitarea activităților zilnice,
+            cum ar fi deplasarea la locul de muncă, școală sau cumpărături.
+        </p>
+
+        <p class="text_bold">
+            De asemenea, aduc un nivel de confort, oferind protecție împotriva condițiilor
+            meteorologice nefavorabile și permitând călătorii în condiții de siguranță.
+            În plus, mașinile joacă un rol crucial în transportul de mărfuri și bunuri esențiale,
+            contribuind la funcționarea eficientă a economiei. Astfel, prezența unei mașini în
+            viața de zi cu zi aduce cu sine avantaje semnificative în ceea ce privește
+            accesibilitatea, flexibilitatea și confortul.
+        </p>
+
+    </div>
+    <div class="column">
+        <img src="img/Poza2.jpg" alt="Poza" height="300" width="550">
+    </div>
+</div>
+    <div class="row" style="background-color:khaki;">
+    <div class="column">
+        <img src="img/Poza3.jfif" alt="Poza" height="300" width="550">
+    </div>
+    <div class="column">
+        <h1>Cu ce te ajuta site-ul nostru?</h1>
+        <p class="text_bold">
+            Site-ul nostru iti ofera sansa sa achizitionezi o masina
+            sau in cazul in care doresti o schimbare iti ofera posibilitatea
+            sa vinzi una.
+        </p>
+        @*<a href="info.html#masinielectrice"><h2><u>Afla mai multe</u></h2></a>*@
+        <a href="@Url.Action("Index", "Info")"><h2><u>Afla mai multe</u></h2></a>
+    </div>
+</div>
+<div class="middle">
+    <h1>De ce sa folosesti CarShop?</h1>
+</div>
+    <div class="row" style="background-color:khaki;">
+    <div class="column">
+        <img src="img/Poza4.jpg" alt="Poza" height="300" width="550">
+    </div>
+    <div class="column">
+        <h1>Avantaje:</h1>
+        <h3>- Transparență.</h3>
+        <p class="text_bold">
+            Site-ul ofera date si informatii clare despre automobil,
+            de asemenea oamenii nostri specializati pot retrage oricand
+            un anunt ce pare dubios.
+        </p>
+        <h3>- Rapiditate.</h3>
+        <p class="text_bold">
+           Este foarte simplu sa cumperi sau sa vinzi o masina la noi pe
+           site.
+        </p>
+        <h3>- Siguranță.</h3>
+        <p class="text_bold">Datorită verificării automobilului.</p>
+    </div>
+</div>
+<div class="middle">
+    <h1>Cum funcționează?</h1>
+    <p class="text_bold" style="padding-left: 250px; padding-right: 250px;">
+        Intri pe site, iti faci cont, iar apoi de poti bucura de 
+        toate ofertele si avantajele pe care site-ul nostru le
+        ofera.
+    </p>
+    <h1>Informații suplimentare</h1>
+        <a href="@Url.Action("Index", "Info")"><h2><u>Vezi detalii</u></h2></a>
+</div>
+</body>

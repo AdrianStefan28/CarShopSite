@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ServiceAuto.Models.CarPart>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Car Parts</h1>
+
+<p>
+    <a asp-action="Create">Add New Car Part</a>
+</p>
+<table class="table" style="background-color:khaki;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CarPartName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarPartDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarPartPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarPartPhoto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarPartName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarPartDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarPartPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarPartPhoto)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,51 @@
+﻿@model ServiceAuto.Models.Car
+
+@{
+    ViewData["Title"] = "Buy";
+}
+
+<h1>Buy</h1>
+
+<h3>Are you sure you want to buy this?</h3>
+<div>
+    <h4>Car</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CarBrand)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarBrand)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CarModel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarModel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CarProductYear)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarProductYear)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CarPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarPrice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CarPhoto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarPhoto)
+        </dd>
+    </dl>
+
+    <form asp-action="Buy">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Buy" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

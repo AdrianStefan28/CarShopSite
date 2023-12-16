@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CarShop</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Info.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/News.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Contact.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/ProgramareService.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ServiceAuto.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="header">
+        <img src="/img/CarShop.png" class="center" alt="CarShop logo" height="120" width="75">
+        <h1 class="headpos">Car Shop</h1>
+    </div>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-black border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+               @* <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">ServiceAuto</a>*@
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between text-white">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Contact" asp-action="Index">Contact</a>
+                        </li>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="Index">News</a>
+                        </li>*@
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Info" asp-action="Index">Info</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="CarParts" asp-action="Index">Car Parts</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Cars" asp-action="Index">Cars</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Services" asp-action="Index">Dealers List</a>
+                        </li>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="ProgramareServices" asp-action="Index">Programare Service</a>
+                        </li>*@
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <a href="https://www.facebook.com/VolkswagenRomania/"><img src="/img/Facebook.png" id="f1" alt="Facebook" height="50px" width="50px"></a>
+            <a href="https://www.instagram.com/volkswagen_romania/"><img src="/img/Instagram.png" id="f2" alt="Instagram" height="50px" width="50px"></a>
+            <a href="https://www.youtube.com/user/VolkswagenRomania"><img src="/img/Youtube.png" id="f3" alt="Youtube" height="50px" width="50px"></a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

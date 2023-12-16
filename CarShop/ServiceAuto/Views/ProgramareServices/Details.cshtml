@@ -1,0 +1,48 @@
+﻿@model ServiceAuto.Models.ProgramareService
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ProgramareService</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Oras)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Oras)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Marca)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Marca)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Defectiune)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Defectiune)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataProgramare)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataProgramare)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="List">Back to List</a>
+</div>

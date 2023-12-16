@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ServiceAuto.Models.ExpenseReport>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Raporturi Financiare</h1>
+
+<p>
+    <a asp-action="Create">Adauga Raport Nou</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpenseReportExpense)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpenseReportIncome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpenseReportProfit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpenseReportExpense)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpenseReportIncome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpenseReportProfit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
