@@ -51,7 +51,7 @@ namespace ServiceAuto.Controllers
         }
 
         // GET: Cars/Create
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,User")]
         public ActionResult Create()
         {
             return View();
@@ -60,10 +60,10 @@ namespace ServiceAuto.Controllers
         // POST: Cars/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,User")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind("Id,CarBrand,CarModel,CarProductYear,CarPrice,CarPhoto")] Car car)
+        public ActionResult Create([Bind("Id,CarBrand,CarModel,CarProductYear,CarPrice")] Car car)
         {
             if (ModelState.IsValid)
             {
@@ -96,7 +96,7 @@ namespace ServiceAuto.Controllers
         [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, [Bind("Id,CarBrand,CarModel,CarProductYear,CarPrice,CarPhoto")] Car car)
+        public ActionResult Edit(int id, [Bind("Id,CarBrand,CarModel,CarProductYear,CarPrice")] Car car)
         {
             if (id != car.Id)
             {
@@ -199,6 +199,7 @@ namespace ServiceAuto.Controllers
                 expenseReport.ExpenseReportIncome += car.CarPrice;
                 expenseReportService.UpdateExpenseReport(expenseReport);
                 expenseReportService.UpdateExpenseReportProfit(expenseReport);
+                carService.DeleteCar(id);
             }
 
             return RedirectToAction(nameof(Index));

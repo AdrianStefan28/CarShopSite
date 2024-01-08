@@ -7,7 +7,7 @@
 <h1>Car Parts</h1>
 
 <p>
-    <a asp-action="Create">Add New Car Part</a>
+    <a asp-action="Create" class="button-stef">Add New Car Part</a>
 </p>
 <table class="table" style="background-color:khaki;">
     <thead>
@@ -20,9 +20,6 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.CarPartPrice)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CarPartPhoto)
             </th>
             <th></th>
         </tr>
@@ -40,13 +37,12 @@
                 @Html.DisplayFor(modelItem => item.CarPartPrice)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CarPartPhoto)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
-                <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
+                    <div class="btn-group-vertical">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn button-stef">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn button-stef">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn button-stef">Delete</a>
+                        <a asp-action="Buy" asp-route-id="@item.Id" class="btn button-stef">Buy</a>
+                    </div>
             </td>
         </tr>
 }

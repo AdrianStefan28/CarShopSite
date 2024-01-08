@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\ServiceAuto.csproj": {}
+    "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\ServiceAuto.csproj": {
+    "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\ServiceAuto.csproj",
+        "projectUniqueName": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
         "projectName": "ServiceAuto",
-        "projectPath": "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\ServiceAuto.csproj",
+        "projectPath": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
         "packagesPath": "C:\\Users\\Ady\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\obj\\",
+        "outputPath": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ady\\AppData\\Roaming\\NuGet\\NuGet.Config",

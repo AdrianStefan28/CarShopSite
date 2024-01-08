@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulPNeqETlPWuzr+zgV9K47UDuu437C7yZg6epsnClTZMXlp33niP/OaVpG1qpEbyjEUD+1E1LOAZm93oN/W3ZQ==",
+  "dgSpecHash": "lz1I4ONT97zGrVRwb+tE86oEbWU7J2w6/21vNcAFTETmsERbHYKXVBOtCv/8d16GTRWSHiB2q++vGXusq9tUFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ady\\Documents\\Facultate\\Assignment 4\\ServiceAuto\\ServiceAuto\\ServiceAuto.csproj",
+  "projectFilePath": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ady\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ady\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -28,6 +28,7 @@ namespace ServiceAuto.Controllers
             return View(contacts);
         }
 
+        [Authorize(Roles = "Admin")]
         public ActionResult Details(int id)
         {
             if (id == null)
@@ -66,6 +67,7 @@ namespace ServiceAuto.Controllers
             return View();
         }
 
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(int id)
         {
             if (id == null)
