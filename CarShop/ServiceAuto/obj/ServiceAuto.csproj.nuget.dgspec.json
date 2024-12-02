@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {}
+    "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {
+    "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\ServiceAuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
+        "projectUniqueName": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
         "projectName": "ServiceAuto",
-        "projectPath": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
-        "packagesPath": "C:\\Users\\Ady\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ady\\Documents\\Facultate\\CarShop\\ServiceAuto\\obj\\",
+        "projectPath": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\ServiceAuto.csproj",
+        "packagesPath": "C:\\Users\\ady\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ady\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
