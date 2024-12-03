@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\programareservice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\programareservice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\services\\carpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\services\\carpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\piese auto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\piese auto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|c:\\users\\ady\\documents\\github\\carshopsite\\carshop\\serviceauto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A5DC21-ED8F-4315-A09C-8DD5CDBEF93A}|ServiceAuto\\ServiceAuto.csproj|solutionrelative:serviceauto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +59,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\appsettings.json",
-              "RelativeDocumentMoniker": "ServiceAuto\\appsettings.json",
-              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\appsettings.json",
-              "RelativeToolTip": "ServiceAuto\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T12:33:28.356Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:37:13.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Program.cs",
-              "RelativeDocumentMoniker": "ServiceAuto\\Program.cs",
-              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Program.cs",
-              "RelativeToolTip": "ServiceAuto\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:32:17.047Z",
+              "Title": "ProgramareService.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\ProgramareService.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\ProgramareService.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\ProgramareService.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\ProgramareService.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:37:07.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CarPartService.cs",
-              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Services\\CarPartService.cs",
-              "RelativeDocumentMoniker": "ServiceAuto\\Services\\CarPartService.cs",
-              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Services\\CarPartService.cs",
-              "RelativeToolTip": "ServiceAuto\\Services\\CarPartService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:22:45.432Z",
+              "Title": "Piese Auto.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Piese Auto.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\Piese Auto.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Piese Auto.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\Piese Auto.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:37:06.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "ServiceAuto\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "ServiceAuto\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAwFkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:15:49.898Z",
+              "Title": "Contact.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Contact.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\Contact.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Contact.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\Contact.css",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:36:59.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceAuto\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "ServiceAuto\\Views\\Contact\\Index.cshtml",
+              "Title": "Info.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Info.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\Info.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Info.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\Info.css",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:36:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "ServiceAuto\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "ServiceAuto\\wwwroot\\css\\Home.css",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:36:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ServiceAuto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ServiceAuto\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T12:15:50.073Z"
+              "WhenOpened": "2024-12-03T14:36:36.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceAuto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ServiceAuto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:36:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ServiceAuto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ServiceAuto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:36:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ServiceAuto\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ServiceAuto\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:36:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ServiceAuto\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopSite\\CarShop\\ServiceAuto\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ServiceAuto\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:36:13.017Z",
+              "EditorCaption": ""
             }
           ]
         }
