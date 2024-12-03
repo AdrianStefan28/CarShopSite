@@ -1,0 +1,38 @@
+﻿@model IEnumerable<CarShopWebApplication.Models.Contact>
+
+@{
+    ViewData["Title"] = "Contacts";
+}
+
+<h1>Contacts</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Message</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.Id</td>
+                <td>@contact.Name</td>
+                <td>@contact.Email</td>
+                <td>@contact.Message</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", "Contact", new { id = contact.Id })">Edit</a>
+                    <form action="@Url.Action("Delete", "Contact", new { id = contact.Id })" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this contact?');">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="@Url.Action("Create", "Contact")">Create New Contact</a>

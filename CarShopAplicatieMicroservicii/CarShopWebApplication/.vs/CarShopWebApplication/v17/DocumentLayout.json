@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\programareservice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\programareservice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\piese auto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\piese auto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\news.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\news.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\serviceappointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\serviceappointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\models\\serviceappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\models\\serviceappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\serviceappointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\serviceappointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\serviceappointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\serviceappointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\carpart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\carpart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\controllers\\serviceappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\controllers\\serviceappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\controllers\\carpartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\controllers\\carpartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\carpart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\carpart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\carpart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\carpart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\models\\carpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\models\\carpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|c:\\users\\ady\\documents\\github\\carshopwebapplication\\carshopwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9B6C-C2C2-4E30-B508-765DA1B27396}|CarShopWebApplication\\CarShopWebApplication.csproj|solutionrelative:carshopwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramareService.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\ProgramareService.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\ProgramareService.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\ProgramareService.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\ProgramareService.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:34.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Piese Auto.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Piese Auto.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\Piese Auto.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Piese Auto.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\Piese Auto.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:33.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "News.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\News.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\News.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\News.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\News.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:32.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\Home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:26.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:35:21.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Info.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Info.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\Info.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Info.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\Info.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:29.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.css",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Contact.css",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\wwwroot\\css\\Contact.css",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\wwwroot\\css\\Contact.css",
+              "RelativeToolTip": "CarShopWebApplication\\wwwroot\\css\\Contact.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:39:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:44:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\ServiceAppointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Create.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\ServiceAppointment\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:46:17.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\ServiceAppointment.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Models\\ServiceAppointment.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\ServiceAppointment.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Models\\ServiceAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:21:07.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:56:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\ServiceAppointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Edit.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\ServiceAppointment\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:46:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\ServiceAppointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\ServiceAppointment\\Index.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\ServiceAppointment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:45:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:43:56.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:43:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAkwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:51:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\CarPart\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Create.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\CarPart\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:28:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceAppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\ServiceAppointmentController.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Controllers\\ServiceAppointmentController.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\ServiceAppointmentController.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Controllers\\ServiceAppointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:52:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarPartController.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\CarPartController.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Controllers\\CarPartController.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\CarPartController.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Controllers\\CarPartController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAkwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:22:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:55:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\CarPart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Index.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\CarPart\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:27:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\CarPart\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\CarPart\\Edit.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\CarPart\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:32:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Car\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:44:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Car\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:48:04.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Views\\Car\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Views\\Car\\Edit.cshtml",
+              "RelativeToolTip": "CarShopWebApplication\\Views\\Car\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:46:26.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\Contact.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:21:18.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\Car.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:20:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarPart.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\CarPart.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Models\\CarPart.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Models\\CarPart.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Models\\CarPart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:20:42.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\appsettings.json",
+              "RelativeToolTip": "CarShopWebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T09:40:08.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CarShopWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\Program.cs",
+              "RelativeToolTip": "CarShopWebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:13:31.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

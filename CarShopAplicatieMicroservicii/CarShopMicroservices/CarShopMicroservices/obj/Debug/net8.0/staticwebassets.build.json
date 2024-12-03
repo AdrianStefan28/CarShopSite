@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y3BZ5448QkCfv2AvHe2TmRcZXwCCbsE3sSOo9inxVjs=",
+  "Source": "CarShopMicroservices",
+  "BasePath": "_content/CarShopMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

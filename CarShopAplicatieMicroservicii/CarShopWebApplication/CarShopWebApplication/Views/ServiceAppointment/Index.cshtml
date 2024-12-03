@@ -1,0 +1,38 @@
+﻿@model IEnumerable<CarShopWebApplication.Models.ServiceAppointment>
+
+@{
+    ViewData["Title"] = "Service Appointments";
+}
+
+<h1>Service Appointments</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Car ID</th>
+            <th>Appointment Date</th>
+            <th>Service Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Id</td>
+                <td>@appointment.CarId</td>
+                <td>@appointment.AppointmentDate</td>
+                <td>@appointment.ServiceDescription</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", "ServiceAppointment", new { id = appointment.Id })">Edit</a>
+                    <form action="@Url.Action("Delete", "ServiceAppointment", new { id = appointment.Id })" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this appointment?');">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="@Url.Action("Create", "ServiceAppointment")">Create New Appointment</a>

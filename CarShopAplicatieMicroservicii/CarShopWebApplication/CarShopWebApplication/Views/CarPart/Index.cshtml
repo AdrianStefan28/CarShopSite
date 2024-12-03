@@ -1,0 +1,34 @@
+﻿@model IEnumerable<CarShopWebApplication.Models.CarPart>
+
+<h1>Car Parts</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var carPart in Model)
+        {
+            <tr>
+                <td>@carPart.Id</td>
+                <td>@carPart.Name</td>
+                <td>@carPart.Price</td>
+                <td>@carPart.Stock</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", "CarPart", new { id = carPart.Id })">Edit</a>
+                    <form action="@Url.Action("Delete", "CarPart", new { id = carPart.Id })" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this car part?');">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="@Url.Action("Create", "CarPart")">Create New Car Part</a>

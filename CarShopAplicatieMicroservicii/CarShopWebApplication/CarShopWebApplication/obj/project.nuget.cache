@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PuJrgJQ+5vRzuefo0rEGYR10RQBlUtWdZ8F0ogfI3YO31r++mCvfW2uGSgYjRCCNDx3tpbBLfoE+ezDXBbvotA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ady\\Documents\\GitHub\\CarShopWebApplication\\CarShopWebApplication\\CarShopWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ady\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

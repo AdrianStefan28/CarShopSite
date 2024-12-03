@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CarShopWebApplication.Models.Car>
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<h1>Cars</h1>
+
+<a class="btn btn-success" href="@Url.Action("Create", "Car")">Create New Car</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model)
+        {
+            <tr>
+                <td>@car.Make</td>
+                <td>@car.Model</td>
+                <td>@car.Year</td>
+                <td>@car.Price</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", "Car", new { id = car.Id })">Edit</a>
+                    <a class="btn btn-info" href="@Url.Action("Details", "Car", new { id = car.Id })">Details</a>
+                    <form action="@Url.Action("Delete", "Car", new { id = car.Id })" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this car?');">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

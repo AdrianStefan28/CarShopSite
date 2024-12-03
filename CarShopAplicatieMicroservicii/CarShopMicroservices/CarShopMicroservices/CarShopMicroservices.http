@@ -1,0 +1,6 @@
+@CarShopMicroservices_HostAddress = http://localhost:5173
+
+GET {{CarShopMicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
